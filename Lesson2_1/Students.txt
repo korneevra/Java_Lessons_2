@@ -1,0 +1,3 @@
+Ivan Ivanov=4.8
+Maria Kuznetsova=5.0
+Stepan Kuzmin=3.6
