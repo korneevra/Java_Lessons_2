@@ -28,6 +28,7 @@ public class Main {
 
 //    Пример ввода данных: Ivan Ivanov Glebovich 22.12.2022 321564 m
 
+
     public static void main(String[] args) {
         do {
             Scanner scanner = new Scanner(System.in);

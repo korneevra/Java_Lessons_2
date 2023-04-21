@@ -8,6 +8,7 @@ public class SaveToFile {
     public SaveToFile() {
     }
 
+
     public static void add(String[] arr) throws IOException {
         try (FileWriter fileWriter = new FileWriter(arr[0], true)) {
             fileWriter.write("<" + arr[0] + ">" +

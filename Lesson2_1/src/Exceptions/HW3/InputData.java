@@ -64,6 +64,7 @@ public class InputData {
         return false;
     }
 
+
     public static boolean isSex(String string) {
         if (string.length() != 1)
             return false;
